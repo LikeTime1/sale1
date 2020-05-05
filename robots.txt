@@ -6,10 +6,11 @@ Disallow: /admin
 Disallow: /cart
 Disallow: /orders
 Disallow: /checkout
-Disallow: /29939499107/checkouts
-Disallow: /29939499107/orders
+Disallow: /35780362378/checkouts
+Disallow: /35780362378/orders
 Disallow: /carts
 Disallow: /account
+Disallow: /collections/*sort_by*sort_by*
 Disallow: /collections/*+*
 Disallow: /collections/*%2B*
 Disallow: /collections/*%2b*
@@ -28,15 +29,15 @@ Disallow: /*preview_script_id*
 Disallow: /policies/
 Disallow: /search
 Disallow: /apple-app-site-association
-Sitemap: https://amandano.com/sitemap.xml
+Sitemap: https://livrari-acasa.myshopify.com/sitemap.xml
 
 # Google adsbot ignores robots.txt unless specifically named!
 User-agent: adsbot-google
 Disallow: /checkout
 Disallow: /carts
 Disallow: /orders
-Disallow: /29939499107/checkouts
-Disallow: /29939499107/orders
+Disallow: /35780362378/checkouts
+Disallow: /35780362378/orders
 Disallow: /*design_theme_id*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
@@ -51,10 +52,11 @@ Disallow: /admin
 Disallow: /cart
 Disallow: /orders
 Disallow: /checkout
-Disallow: /29939499107/checkouts
-Disallow: /29939499107/orders
+Disallow: /35780362378/checkouts
+Disallow: /35780362378/orders
 Disallow: /carts
 Disallow: /account
+Disallow: /collections/*sort_by*sort_by*
 Disallow: /collections/*+*
 Disallow: /collections/*%2B*
 Disallow: /collections/*%2b*
@@ -73,7 +75,7 @@ Disallow: /*preview_script_id*
 Disallow: /policies/
 Disallow: /search
 Disallow: /apple-app-site-association
-Sitemap: https://amandano.com/sitemap.xml
+Sitemap: https://livrari-acasa.myshopify.com/sitemap.xml
 
 User-agent: AhrefsSiteAudit
 Crawl-delay: 10
@@ -82,10 +84,11 @@ Disallow: /admin
 Disallow: /cart
 Disallow: /orders
 Disallow: /checkout
-Disallow: /29939499107/checkouts
-Disallow: /29939499107/orders
+Disallow: /35780362378/checkouts
+Disallow: /35780362378/orders
 Disallow: /carts
 Disallow: /account
+Disallow: /collections/*sort_by*sort_by*
 Disallow: /collections/*+*
 Disallow: /collections/*%2B*
 Disallow: /collections/*%2b*
@@ -104,7 +107,7 @@ Disallow: /*preview_script_id*
 Disallow: /policies/
 Disallow: /search
 Disallow: /apple-app-site-association
-Sitemap: https://amandano.com/sitemap.xml
+Sitemap: https://livrari-acasa.myshopify.com/sitemap.xml
 
 User-agent: MJ12bot
 Crawl-Delay: 10

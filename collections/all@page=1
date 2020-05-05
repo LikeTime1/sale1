@@ -5,15 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#ffaa00">
-  <link rel="canonical" href="https://livrari-acasa.myshopify.com/collections/frontpage"><title>Home page
+  <link rel="canonical" href="https://livrari-acasa.myshopify.com/collections/all"><title>Products
 &ndash; Livrari Acasa</title><!-- /snippets/social-meta-tags.liquid -->
 
 
 
 
 <meta property="og:site_name" content="Livrari Acasa">
-<meta property="og:url" content="https://livrari-acasa.myshopify.com/collections/frontpage">
-<meta property="og:title" content="Home page">
+<meta property="og:url" content="https://livrari-acasa.myshopify.com/collections/all">
+<meta property="og:title" content="Products">
 <meta property="og:type" content="product.group">
 <meta property="og:description" content="Livrari Acasa">
 
@@ -22,7 +22,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Home page">
+<meta name="twitter:title" content="Products">
 <meta name="twitter:description" content="Livrari Acasa">
 
 
@@ -89,9 +89,8 @@
   <script src="//cdn.shopify.com/s/files/1/0357/8036/2378/t/2/assets/theme.js?v=11958825300028725633" defer="defer"></script>
 
   <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/35780362378/digital_wallets/dialog">
-<link rel="alternate" type="application/atom+xml" title="Feed" href="/collections/frontpage.atom" />
-<link rel="next" href="/collections/frontpage?page=2">
-<link rel="alternate" type="application/json+oembed" href="https://livrari-acasa.myshopify.com/collections/frontpage.oembed">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/collections/all.atom" />
+<link rel="next" href="/collections/all?page=2">
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script id="shopify-features" type="application/json">{"accessToken":"8e7de33ec6e5e5d22858f74bb87e5667","betas":["rich-media-storefront-analytics"],"domain":"livrari-acasa.myshopify.com","predictiveSearch":true,"shopId":35780362378,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
 <script>var Shopify = Shopify || {};
@@ -103,12 +102,12 @@ Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":35780362378,"offset":-14400,"reqid":"919aec96-7eaa-4ebb-8d56-e45a8f4dad2c","pageurl":"livrari-acasa.myshopify.com\/collections\/frontpage","u":"37ce18ae7726","p":"collection","rtyp":"collection","rid":176805380234};</script>
+<script id="__st">var __st={"a":35780362378,"offset":-14400,"reqid":"bd7ee1f9-b287-4934-9bd0-0ac994782548","pageurl":"livrari-acasa.myshopify.com\/collections\/all?page=1","u":"42a0e644e87b","p":"collection"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'RON';
-var meta = {"page":{"pageType":"collection","resourceType":"collection","resourceId":176805380234}};
+var meta = {"page":{"pageType":"collection"}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -346,13 +345,13 @@ for (var attr in meta) {
       
         window.ShopifyAnalytics.lib.page(
           null,
-          {"pageType":"collection","resourceType":"collection","resourceId":176805380234}
+          {"pageType":"collection"}
         );
       
       
         window.ShopifyAnalytics.lib.track(
           "Viewed Product Category",
-          {"currency":"RON","category":"Collection: frontpage","nonInteraction":true}
+          {"currency":"RON","category":"Collection: all","nonInteraction":true}
         );
       
     }
@@ -502,10 +501,10 @@ for (var attr in meta) {
 
 
     
-      <li >
+      <li  class="site-nav--active">
         <a href="/collections/all"
-          class="site-nav__link site-nav__link--main"
-          
+          class="site-nav__link site-nav__link--main site-nav__link--active"
+           aria-current="page"
         >
           <span class="site-nav__label">Catalog</span>
         </a>
@@ -564,8 +563,8 @@ for (var attr in meta) {
 <li class="mobile-nav__item">
             
               <a href="/collections/all"
-                class="mobile-nav__link"
-                
+                class="mobile-nav__link mobile-nav__link--active"
+                 aria-current="page"
               >
                 <span class="mobile-nav__label">Catalog</span>
               </a>
@@ -624,7 +623,7 @@ for (var attr in meta) {
           <h1>
             <span role="text">
               <span class="visually-hidden">Collection: </span>
-              Home page
+              Products
             </span>
           </h1>
           
@@ -648,8 +647,8 @@ for (var attr in meta) {
                     <select name="sort_by" id="SortBy"
                       class="filters-toolbar__input hidden"
                       aria-describedby="a11y-refresh-page-message a11y-selection-message"
-                      data-default-sortby="created-ascending"
-                    ><option value="manual" >Featured</option><option value="best-selling" >Best selling</option><option value="title-ascending" >Alphabetically, A-Z</option><option value="title-descending" >Alphabetically, Z-A</option><option value="price-ascending" >Price, low to high</option><option value="price-descending" >Price, high to low</option><option value="created-ascending" selected="selected">Date, old to new</option><option value="created-descending" >Date, new to old</option></select>
+                      data-default-sortby="title-ascending"
+                    ><option value="manual" >Featured</option><option value="best-selling" >Best selling</option><option value="title-ascending" selected="selected">Alphabetically, A-Z</option><option value="title-descending" >Alphabetically, Z-A</option><option value="price-ascending" >Price, low to high</option><option value="price-descending" >Price, high to low</option><option value="created-ascending" >Date, old to new</option><option value="created-descending" >Date, new to old</option></select>
                     <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-down" viewBox="0 0 9 9"><path d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z" fill="#fff"/></svg>
                   </div>
                 </div>
@@ -657,7 +656,7 @@ for (var attr in meta) {
             </div>
 
             <div class="filters-toolbar__item filters-toolbar__item--count">
-              <span class="filters-toolbar__product-count">25 products</span>
+              <span class="filters-toolbar__product-count">28 products</span>
             </div>
           </div>
         </div>
@@ -674,7 +673,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/1pcs-5cm-35cm-furniture-adjustable-cabinet-legs-stainless-steel-furniture-legs-cabinet-table-sofa-bed-feet-furniture-legs-feet">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/1pcs-5cm-35cm-furniture-adjustable-cabinet-legs-stainless-steel-furniture-legs-cabinet-table-sofa-bed-feet-furniture-legs-feet">
     <span class="visually-hidden">1Pcs 5CM-35CM Furniture Adjustable Cabinet Legs Stainless Steel Furniture Legs Cabinet Table Sofa Bed Feet Furniture Legs Feet</span>
   </a>
 
@@ -772,7 +771,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/2pcs-wood-furniture-refinishing-paste-wood-floor-scratch-fast-remover-repair-paint-17-colors-wax-for-furniture-20g">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/2pcs-wood-furniture-refinishing-paste-wood-floor-scratch-fast-remover-repair-paint-17-colors-wax-for-furniture-20g">
     <span class="visually-hidden">2PCS Wood Furniture Refinishing Paste Wood Floor Scratch Fast Remover Repair Paint 17 Colors Wax For Furniture 20g</span>
   </a>
 
@@ -870,7 +869,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/30pcs-black-rubber-feet-chair-floor-protector-non-slip-furniture-feet-table-leg-cover-cabinet-bottom-pads-funiture-legs">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/30pcs-black-rubber-feet-chair-floor-protector-non-slip-furniture-feet-table-leg-cover-cabinet-bottom-pads-funiture-legs">
     <span class="visually-hidden">30pcs Black Rubber Feet Chair Floor Protector Non-slip Furniture Feet Table Leg Cover Cabinet Bottom Pads Funiture Legs</span>
   </a>
 
@@ -968,7 +967,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/50pcs-round-shaped-table-chair-furniture-leg-felt-mat-pad-gray">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/50pcs-round-shaped-table-chair-furniture-leg-felt-mat-pad-gray">
     <span class="visually-hidden">50Pcs Round Shaped Table Chair Furniture Leg Felt Mat Pad Gray</span>
   </a>
 
@@ -1066,7 +1065,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/actionclub-multifunction-triangle-simple-coat-rack-stainless-steel-removable-clothes-hanging-hanger-floor-stand-coat-rack-wheels">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/actionclub-multifunction-triangle-simple-coat-rack-stainless-steel-removable-clothes-hanging-hanger-floor-stand-coat-rack-wheels">
     <span class="visually-hidden">Actionclub Multifunction Triangle Simple Coat Rack Stainless Steel Removable Clothes Hanging Hanger Floor Stand Coat Rack Wheels</span>
   </a>
 
@@ -1164,7 +1163,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/bar-stool-sokoltec">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/bar-stool-sokoltec">
     <span class="visually-hidden">Bar stool SOKOLTEC</span>
   </a>
 
@@ -1262,7 +1261,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/bathroom-cabinet-80x15-5x15-5cm-bathroom-toilet-furniture-cabinet-white-wood-plastic-board-cupboard-shelf-tissue-storage-rack">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/bathroom-cabinet-80x15-5x15-5cm-bathroom-toilet-furniture-cabinet-white-wood-plastic-board-cupboard-shelf-tissue-storage-rack">
     <span class="visually-hidden">Bathroom Cabinet 80X15.5X15.5CM Bathroom Toilet Furniture Cabinet White Wood-Plastic Board Cupboard Shelf Tissue Storage Rack</span>
   </a>
 
@@ -1360,7 +1359,7 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/cow-stool-animal-model-cushion-sofa-ottoman-shoe-child-seat-pouf-kids-chair-toys-storagefootstool-solid-wood-home-deco-furniture">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/all/products/cow-stool-animal-model-cushion-sofa-ottoman-shoe-child-seat-pouf-kids-chair-toys-storagefootstool-solid-wood-home-deco-furniture">
     <span class="visually-hidden">Cow Stool Animal model cushion Sofa Ottoman Shoe child seat Pouf Kids Chair Toys StorageFootstool Solid Wood Home Deco Furniture</span>
   </a>
 
@@ -1474,7 +1473,7 @@ for (var attr in meta) {
   </li>
   
     <li>
-      <a href="/collections/frontpage?page=2" class="btn btn--tertiary btn--narrow">
+      <a href="/collections/all?page=2" class="btn btn--tertiary btn--narrow">
         <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-right" viewBox="0 0 20 8"><path d="M15.186.445c.865.944 1.614 1.662 2.246 2.154.631.491 1.227.857 1.787 1.098v.44a9.933 9.933 0 0 0-1.875 1.196c-.606.485-1.328 1.196-2.168 2.134h-.752c.612-1.309 1.253-2.315 1.924-3.018H.77v-.986h15.577c-.495-.632-.84-1.1-1.035-1.406-.196-.306-.486-.843-.87-1.612h.743z" fill="#000" fill-rule="evenodd"/></svg>
         <span class="icon__fallback-text">Next page</span>
       </a>

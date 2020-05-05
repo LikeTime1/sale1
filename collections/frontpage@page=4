@@ -5,14 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#ffaa00">
-  <link rel="canonical" href="https://livrari-acasa.myshopify.com/collections/frontpage"><title>Home page
+  <link rel="canonical" href="https://livrari-acasa.myshopify.com/collections/frontpage?page=4"><title>Home page
+&ndash; Page 4
 &ndash; Livrari Acasa</title><!-- /snippets/social-meta-tags.liquid -->
 
 
 
 
 <meta property="og:site_name" content="Livrari Acasa">
-<meta property="og:url" content="https://livrari-acasa.myshopify.com/collections/frontpage">
+<meta property="og:url" content="https://livrari-acasa.myshopify.com/collections/frontpage?page=4">
 <meta property="og:title" content="Home page">
 <meta property="og:type" content="product.group">
 <meta property="og:description" content="Livrari Acasa">
@@ -90,8 +91,8 @@
 
   <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/35780362378/digital_wallets/dialog">
 <link rel="alternate" type="application/atom+xml" title="Feed" href="/collections/frontpage.atom" />
-<link rel="next" href="/collections/frontpage?page=2">
-<link rel="alternate" type="application/json+oembed" href="https://livrari-acasa.myshopify.com/collections/frontpage.oembed">
+<link rel="prev" href="/collections/frontpage?page=3">
+<link rel="alternate" type="application/json+oembed" href="https://livrari-acasa.myshopify.com/collections/frontpage.oembed?page=4">
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script id="shopify-features" type="application/json">{"accessToken":"8e7de33ec6e5e5d22858f74bb87e5667","betas":["rich-media-storefront-analytics"],"domain":"livrari-acasa.myshopify.com","predictiveSearch":true,"shopId":35780362378,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
 <script>var Shopify = Shopify || {};
@@ -103,7 +104,7 @@ Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":35780362378,"offset":-14400,"reqid":"919aec96-7eaa-4ebb-8d56-e45a8f4dad2c","pageurl":"livrari-acasa.myshopify.com\/collections\/frontpage","u":"37ce18ae7726","p":"collection","rtyp":"collection","rid":176805380234};</script>
+<script id="__st">var __st={"a":35780362378,"offset":-14400,"reqid":"961d1743-3073-4fa3-8700-0ff4c6552b00","pageurl":"livrari-acasa.myshopify.com\/collections\/frontpage?page=4","u":"f49db133ce4b","p":"collection","rtyp":"collection","rid":176805380234};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -674,19 +675,19 @@ for (var attr in meta) {
           <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
             
 <div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/1pcs-5cm-35cm-furniture-adjustable-cabinet-legs-stainless-steel-furniture-legs-cabinet-table-sofa-bed-feet-furniture-legs-feet">
-    <span class="visually-hidden">1Pcs 5CM-35CM Furniture Adjustable Cabinet Legs Stainless Steel Furniture Legs Cabinet Table Sofa Bed Feet Furniture Legs Feet</span>
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/stainless-steel-coffee-filter-k-cup-baskets-reusable-coffee-capsules-dripper-compatible-with-keurig-1-0-2-0-brewers">
+    <span class="visually-hidden">Stainless Steel Coffee Filter K Cup Baskets Reusable Coffee Capsules Dripper Compatible With Keurig 1.0 & 2.0 Brewers</span>
   </a>
 
   
   
 
-    <style>#ProductCardImage-collection-template-4715771134090 {
+    <style>#ProductCardImage-collection-template-4715792498826 {
     max-width: 250.0px;
     max-height: 250px;
   }
 
-  #ProductCardImageWrapper-collection-template-4715771134090 {
+  #ProductCardImageWrapper-collection-template-4715792498826 {
     max-width: 250.0px;
   }
 </style>
@@ -694,12 +695,12 @@ for (var attr in meta) {
   
 
   <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715771134090" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div id="ProductCardImageWrapper-collection-template-4715792498826" class="grid-view-item__image-wrapper product-card__image-wrapper js">
       <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715771134090"
+        <img id="ProductCardImage-collection-template-4715792498826"
               class="grid-view-item__image lazyload"
               alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1135295631_{width}x.jpg?v=1584692567"
+              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1288218809_{width}x.jpg?v=1584692783"
               data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
               data-aspectratio="1.0"
               data-sizes="auto"
@@ -711,10 +712,10 @@ for (var attr in meta) {
 
   <noscript>
     
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1135295631_250x250@2x.jpg?v=1584692567" alt="" style="max-width: 250.0px;">
+    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1288218809_250x250@2x.jpg?v=1584692783" alt="" style="max-width: 250.0px;">
   </noscript>
 
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">1Pcs 5CM-35CM Furniture Adjustable Cabinet Legs Stainless Steel Furniture Legs Cabinet Table Sofa Bed Feet Furniture Legs Feet</div>
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Stainless Steel Coffee Filter K Cup Baskets Reusable Coffee Capsules Dripper Compatible With Keurig 1.0 & 2.0 Brewers</div>
 
   
 <dl class="price price--listing price--sold-out "
@@ -725,7 +726,7 @@ for (var attr in meta) {
       <span class="visually-hidden visually-hidden--inline">Regular price</span>
     </dt>
     <dd>
-      <span class="price-item price-item--regular">from 3,96 lei
+      <span class="price-item price-item--regular">from 21,54 lei
 </span>
     </dd>
   </div>
@@ -734,7 +735,7 @@ for (var attr in meta) {
       <span class="visually-hidden visually-hidden--inline">Sale price</span>
     </dt>
     <dd>
-      <span class="price-item price-item--sale">from 3,96 lei
+      <span class="price-item price-item--sale">from 21,54 lei
 </span>
     </dd>
     <div class="price__compare">
@@ -743,693 +744,7 @@ for (var attr in meta) {
       </dt>
       <dd>
         <s class="price-item price-item--regular">
-          3,96 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/2pcs-wood-furniture-refinishing-paste-wood-floor-scratch-fast-remover-repair-paint-17-colors-wax-for-furniture-20g">
-    <span class="visually-hidden">2PCS Wood Furniture Refinishing Paste Wood Floor Scratch Fast Remover Repair Paint 17 Colors Wax For Furniture 20g</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715773526154 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715773526154 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715773526154" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715773526154"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-983001600_{width}x.jpg?v=1584692595"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-983001600_250x250@2x.jpg?v=1584692595" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">2PCS Wood Furniture Refinishing Paste Wood Floor Scratch Fast Remover Repair Paint 17 Colors Wax For Furniture 20g</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">from 2,16 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">from 2,16 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          2,16 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/30pcs-black-rubber-feet-chair-floor-protector-non-slip-furniture-feet-table-leg-cover-cabinet-bottom-pads-funiture-legs">
-    <span class="visually-hidden">30pcs Black Rubber Feet Chair Floor Protector Non-slip Furniture Feet Table Leg Cover Cabinet Bottom Pads Funiture Legs</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715774050442 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715774050442 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715774050442" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715774050442"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-950210681_{width}x.jpg?v=1584692599"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-950210681_250x250@2x.jpg?v=1584692599" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">30pcs Black Rubber Feet Chair Floor Protector Non-slip Furniture Feet Table Leg Cover Cabinet Bottom Pads Funiture Legs</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">2,16 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">2,16 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          2,16 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/50pcs-round-shaped-table-chair-furniture-leg-felt-mat-pad-gray">
-    <span class="visually-hidden">50Pcs Round Shaped Table Chair Furniture Leg Felt Mat Pad Gray</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715774181514 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715774181514 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715774181514" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715774181514"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-977827196_{width}x.jpg?v=1584692601"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-977827196_250x250@2x.jpg?v=1584692601" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">50Pcs Round Shaped Table Chair Furniture Leg Felt Mat Pad Gray</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">2,00 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">2,00 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          2,00 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/actionclub-multifunction-triangle-simple-coat-rack-stainless-steel-removable-clothes-hanging-hanger-floor-stand-coat-rack-wheels">
-    <span class="visually-hidden">Actionclub Multifunction Triangle Simple Coat Rack Stainless Steel Removable Clothes Hanging Hanger Floor Stand Coat Rack Wheels</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715774673034 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715774673034 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715774673034" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715774673034"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1299165084_{width}x.jpg?v=1584692605"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1299165084_250x250@2x.jpg?v=1584692605" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Actionclub Multifunction Triangle Simple Coat Rack Stainless Steel Removable Clothes Hanging Hanger Floor Stand Coat Rack Wheels</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">from 35,98 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">from 35,98 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          35,98 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/bar-stool-sokoltec">
-    <span class="visually-hidden">Bar stool SOKOLTEC</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715775000714 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715775000714 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715775000714" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715775000714"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1287617418_{width}x.jpg?v=1584692607"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1287617418_250x250@2x.jpg?v=1584692607" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Bar stool SOKOLTEC</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">7.998,40 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">7.998,40 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          7.998,40 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/bathroom-cabinet-80x15-5x15-5cm-bathroom-toilet-furniture-cabinet-white-wood-plastic-board-cupboard-shelf-tissue-storage-rack">
-    <span class="visually-hidden">Bathroom Cabinet 80X15.5X15.5CM Bathroom Toilet Furniture Cabinet White Wood-Plastic Board Cupboard Shelf Tissue Storage Rack</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715775131786 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715775131786 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715775131786" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715775131786"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1202231763_{width}x.jpg?v=1584692609"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1202231763_250x250@2x.jpg?v=1584692609" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Bathroom Cabinet 80X15.5X15.5CM Bathroom Toilet Furniture Cabinet White Wood-Plastic Board Cupboard Shelf Tissue Storage Rack</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">from 25,10 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">from 25,10 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          25,10 lei
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Unit price</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>Sale</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Sold out</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-          </li>
-        
-          <li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
-            
-<div class="grid-view-item grid-view-item--sold-out product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/cow-stool-animal-model-cushion-sofa-ottoman-shoe-child-seat-pouf-kids-chair-toys-storagefootstool-solid-wood-home-deco-furniture">
-    <span class="visually-hidden">Cow Stool Animal model cushion Sofa Ottoman Shoe child seat Pouf Kids Chair Toys StorageFootstool Solid Wood Home Deco Furniture</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-template-4715775557770 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-template-4715775557770 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-template-4715775557770" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-template-4715775557770"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1254487381_{width}x.jpg?v=1584692613"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0357/8036/2378/products/product-image-1254487381_250x250@2x.jpg?v=1584692613" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Cow Stool Animal model cushion Sofa Ottoman Shoe child seat Pouf Kids Chair Toys StorageFootstool Solid Wood Home Deco Furniture</div>
-
-  
-<dl class="price price--listing price--sold-out "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Regular price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">99,82 lei
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Sale price</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">99,82 lei
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          99,82 lei
+          21,54 lei
         </s>
       </dd>
     </div>
@@ -1462,22 +777,22 @@ for (var attr in meta) {
 
 <ul class="list--inline pagination">
   
-    <li aria-hidden="true">
-      <button class="btn btn--tertiary btn--narrow" disabled>
+    <li>
+      <a href="/collections/frontpage?page=3" class="btn btn--tertiary btn--narrow">
         <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 20 8"><path d="M4.814 7.555C3.95 6.61 3.2 5.893 2.568 5.4 1.937 4.91 1.341 4.544.781 4.303v-.44a9.933 9.933 0 0 0 1.875-1.196c.606-.485 1.328-1.196 2.168-2.134h.752c-.612 1.309-1.253 2.315-1.924 3.018H19.23v.986H3.652c.495.632.84 1.1 1.036 1.406.195.306.485.843.869 1.612h-.743z" fill="#000" fill-rule="evenodd"/></svg>
         <span class="icon__fallback-text">Previous page</span>
-      </button>
+      </a>
     </li>
-    
+  
   <li class="pagination__text">
-    Page 1 of 4
+    Page 4 of 4
   </li>
   
-    <li>
-      <a href="/collections/frontpage?page=2" class="btn btn--tertiary btn--narrow">
+    <li aria-hidden="true">
+      <button class="btn btn--tertiary btn--narrow" disabled>
         <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-right" viewBox="0 0 20 8"><path d="M15.186.445c.865.944 1.614 1.662 2.246 2.154.631.491 1.227.857 1.787 1.098v.44a9.933 9.933 0 0 0-1.875 1.196c-.606.485-1.328 1.196-2.168 2.134h-.752c.612-1.309 1.253-2.315 1.924-3.018H.77v-.986h15.577c-.495-.632-.84-1.1-1.035-1.406-.196-.306-.486-.843-.87-1.612h.743z" fill="#000" fill-rule="evenodd"/></svg>
         <span class="icon__fallback-text">Next page</span>
-      </a>
+      </button>
     </li>
   
 </ul>

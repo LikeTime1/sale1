@@ -103,7 +103,7 @@ Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":35780362378,"offset":-14400,"reqid":"919aec96-7eaa-4ebb-8d56-e45a8f4dad2c","pageurl":"livrari-acasa.myshopify.com\/collections\/frontpage","u":"37ce18ae7726","p":"collection","rtyp":"collection","rid":176805380234};</script>
+<script id="__st">var __st={"a":35780362378,"offset":-14400,"reqid":"2b18dbc3-8ed3-4d7b-b11b-1bdc3e2e1b58","pageurl":"livrari-acasa.myshopify.com\/collections\/frontpage?page=1","u":"ad6894109daa","p":"collection","rtyp":"collection","rid":176805380234};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
